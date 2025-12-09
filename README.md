@@ -10,4 +10,4 @@ Vision–language VQA model on Kvasir-VQA (ViT + DistilBERT).
 - src/hf_utils.py                  : Save / load checkpoints on Hugging Face Hub
 - scripts/run_train.py             : Entry script to train the model
 
-After downloading this repo locally, open these files and paste your full code.
+
